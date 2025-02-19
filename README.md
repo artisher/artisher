@@ -5,7 +5,7 @@ I am a Front-End developer.
 ## 🚀 About Me
 - 🌱 Currently learning React.js
 - 💬 Ask me about web development, JavaScript, and more!
-- 📄 Check out my [resume](link to your resume)
+- 📄 Check out my [resume](https://cvbuilder.me/Resume/en/ba26345e-4925-4721-a5ab-f742ffbeb7c4?template=Template25)
 
 ⚡I love Gym and learning new tech every day! 
 
