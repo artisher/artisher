@@ -1,4 +1,8 @@
-👋 Hey there, I'm Artisher!
+---
+
+
+## 👋 Hey there, I'm Artisher!
+
 Welcome to my GitHub! 🚀
 I'm a Frontend Developer passionate about crafting clean and efficient web apps using React and modern JavaScript. This profile is a showcase of my coding journey — from learning basics to building real-world projects.
 
